@@ -1,4 +1,5 @@
 # Databricks-exemplum-VC
+steps:
 kaggle dataset >> load to AWS S3 backet >> ingest to Databriks >> prepare codes for bronze (load), silver (transform), gold (some aggregation) >>
 prepare and run JOB with tasks >> table created
 
