@@ -21,6 +21,7 @@ prepare and run JOB with tasks >> tables created
 ](https://github.com/khoelena/Databricks-exemplum-VC/blob/b7a6f99964365413550c1cb9f0c33a5819c5988e/Pipeline_vc_2/ETL_VC(transformations)/silver/silver_transfom_vc.ipynb)
 
 [Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb](https://github.com/khoelena/Databricks-exemplum-VC/blob/06915c3f9f7a68dde9dfde7ffe57ee4088d3d2c3/Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb)
+
     <img width="1862" height="683" alt="image" src="https://github.com/user-attachments/assets/c1b1c996-b2ad-490e-8515-c99e0c254f58" />
     <img width="1895" height="863" alt="image" src="https://github.com/user-attachments/assets/3b2697b5-3e0a-49be-b277-8fa44fea63e5" />
 
