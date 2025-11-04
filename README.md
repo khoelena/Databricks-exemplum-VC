@@ -20,7 +20,7 @@ prepare and run JOB with tasks >> tables created
 [Pipeline_vc_2/ETL_VC(transformations)/silver/silver_transfom_vc.ipynb
 ](https://github.com/khoelena/Databricks-exemplum-VC/blob/b7a6f99964365413550c1cb9f0c33a5819c5988e/Pipeline_vc_2/ETL_VC(transformations)/silver/silver_transfom_vc.ipynb)
 
-[Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb](https://github.com/khoelena/Databricks-exemplum-VC/blob/06915c3f9f7a68dde9dfde7ffe57ee4088d3d2c3/Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb)
+[Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb](https://github.com/khoelena/Databricks-exemplum-VC/blob/1f8daf13061c0afde5251f3e0c06314b88b39059/Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb)
 
 <img width="1862" height="683" alt="image" src="https://github.com/user-attachments/assets/c1b1c996-b2ad-490e-8515-c99e0c254f58" />
     
