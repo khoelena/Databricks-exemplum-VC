@@ -31,3 +31,4 @@ prepare and run JOB with tasks >> tables created
     <img width="1893" height="973" alt="image" src="https://github.com/user-attachments/assets/24bc2f96-732b-4f54-9743-c866b77ab6d7" />
 
 5. tables created
+    <img width="1903" height="911" alt="image" src="https://github.com/user-attachments/assets/9d2f42db-b8c2-4347-a2d9-25aaa44faaf9" />
