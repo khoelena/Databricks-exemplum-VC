@@ -14,7 +14,7 @@ prepare and run JOB with tasks >> tables created
    <img width="1909" height="699" alt="image" src="https://github.com/user-attachments/assets/7ed0175a-3922-42ca-baa7-345c35f528d7" />
 
 3. Find files for bronze, silver, gold into CODE in the current REPO
-Pipeline_vc_2/ETL_VC(transformations)/bronze/bronze_load_vc.ipynb
+[Pipeline_vc_2/ETL_VC(transformations)/bronze/bronze_load_vc.ipynb](https://github.com/khoelena/Databricks-exemplum-VC/blob/269a3417e0475610a2c467fc09cc68e182f1d89c/Pipeline_vc_2/ETL_VC(transformations)/bronze/bronze_load_vc.ipynb)
 Pipeline_vc_2/ETL_VC(transformations)/silver/silver_transfom_vc.ipynb
 Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb
     <img width="1862" height="683" alt="image" src="https://github.com/user-attachments/assets/c1b1c996-b2ad-490e-8515-c99e0c254f58" />
