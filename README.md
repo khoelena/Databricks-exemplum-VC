@@ -10,10 +10,10 @@ prepare and run JOB with tasks >> table created
 1: Load raw CSV from S3 into a DataFrame
     <img width="1879" height="937" alt="image" src="https://github.com/user-attachments/assets/bdda44e9-345c-422b-9ce5-9ebc8b481afa" />
 
-2.
-    <img width="1778" height="717" alt="image" src="https://github.com/user-attachments/assets/b0009255-ceab-492c-9a82-8f37f364b193" />
+2. Create Databriks table from S3
+   <img width="1909" height="699" alt="image" src="https://github.com/user-attachments/assets/7ed0175a-3922-42ca-baa7-345c35f528d7" />
 
-4. find files for bronze, silver, gold into CODE in the current REPO
+3. find files for bronze, silver, gold into CODE in the current REPO
     <img width="1862" height="683" alt="image" src="https://github.com/user-attachments/assets/c1b1c996-b2ad-490e-8515-c99e0c254f58" />
 
 
