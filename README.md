@@ -13,10 +13,11 @@ prepare and run JOB with tasks >> table created
 2. Create Databriks table from S3
    <img width="1909" height="699" alt="image" src="https://github.com/user-attachments/assets/7ed0175a-3922-42ca-baa7-345c35f528d7" />
 
-3. find files for bronze, silver, gold into CODE in the current REPO
+3. Find files for bronze, silver, gold into CODE in the current REPO
     <img width="1862" height="683" alt="image" src="https://github.com/user-attachments/assets/c1b1c996-b2ad-490e-8515-c99e0c254f58" />
+    <img width="1895" height="863" alt="image" src="https://github.com/user-attachments/assets/3b2697b5-3e0a-49be-b277-8fa44fea63e5" />
 
-
-5: JOB successfully finished
+4. JOB successfully finished
     <img width="1840" height="945" alt="image" src="https://github.com/user-attachments/assets/c1bbc22c-f7df-4454-a402-1f58a5b94522" />
 
+5. tables crated
