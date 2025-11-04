@@ -23,6 +23,7 @@ prepare and run JOB with tasks >> tables created
 [Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb](https://github.com/khoelena/Databricks-exemplum-VC/blob/06915c3f9f7a68dde9dfde7ffe57ee4088d3d2c3/Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb)
 
     <img width="1862" height="683" alt="image" src="https://github.com/user-attachments/assets/c1b1c996-b2ad-490e-8515-c99e0c254f58" />
+    
     <img width="1895" height="863" alt="image" src="https://github.com/user-attachments/assets/3b2697b5-3e0a-49be-b277-8fa44fea63e5" />
 
 4. JOB successfully finished
