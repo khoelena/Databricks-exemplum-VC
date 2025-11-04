@@ -1,7 +1,7 @@
 # Databricks-exemplum-VC
 steps:
 kaggle dataset >> load to AWS S3 backet >> ingest to Databriks >> prepare codes for bronze (load), silver (transform), gold (some aggregation) >>
-prepare and run JOB with tasks >> table created
+prepare and run JOB with tasks >> tables created
 
 0. Kaggle dataset  StartUp Investments (Crunchbase) https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase
     <img width="1887" height="901" alt="image" src="https://github.com/user-attachments/assets/584e765e-5dab-41d5-a6a4-3a56564b0b34" />
