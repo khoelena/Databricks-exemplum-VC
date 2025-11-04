@@ -23,4 +23,4 @@ Pipeline_vc_2/ETL_VC(transformations)/gold/gold_agg_vc.ipynb
 4. JOB successfully finished
     <img width="1840" height="945" alt="image" src="https://github.com/user-attachments/assets/c1bbc22c-f7df-4454-a402-1f58a5b94522" />
 
-5. tables crated
+5. tables created
