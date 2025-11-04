@@ -8,3 +8,6 @@ STEP 1: Bronze Layer
 Load raw CSV from S3 into a DataFrame
 <img width="1879" height="937" alt="image" src="https://github.com/user-attachments/assets/bdda44e9-345c-422b-9ce5-9ebc8b481afa" />
 
+
+STEP next: 
+<img width="1840" height="945" alt="image" src="https://github.com/user-attachments/assets/c1bbc22c-f7df-4454-a402-1f58a5b94522" />
